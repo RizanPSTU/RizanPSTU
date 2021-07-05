@@ -9,12 +9,13 @@ My full name is Rafsan Uddin Beg Rizan
 - 🌱 I’m currently learning everything about Docker and K8s
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Prepering for a course to teach flutter and backend
--
 - ⚡ Fun fact: Lock Picking
 
 ## ⚙️ Technologies & Tools
 
 ## &#x1f4c8; GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizanPSTU)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center" >
   <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizanPSTU&count_private=true&langs_count=10" />
