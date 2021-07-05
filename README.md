@@ -15,14 +15,8 @@ My full name is Rafsan Uddin Beg Rizan
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizanPSTU)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center" >
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizanPSTU&count_private=true&langs_count=10" />
-
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=RizanPSTU&count_private=true" />
+  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizanPSTU&count_private=true&langs_count=10&show_icons=true" />
 </p>
-
-<!-- <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=RizanPSTU"/> -->
 
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=RizanPSTU&count_private=true"/>
