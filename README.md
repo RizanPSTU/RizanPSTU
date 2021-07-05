@@ -22,8 +22,6 @@ My full name is Rafsan Uddin Beg Rizan
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=RizanPSTU&count_private=true" />
 </p>
 
-### wakatime stats
-
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=RizanPSTU"/>
+<!-- <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=RizanPSTU"/> -->
 
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=RizanPSTU&count_private=true"/>
