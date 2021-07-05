@@ -17,9 +17,9 @@ My full name is Rafsan Uddin Beg Rizan
 ## &#x1f4c8; GitHub Stats
 
 <p align="center" >
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuhanmirza&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
+  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizanPSTU" />
 
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=shuhanmirza&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=RizanPSTU" />
 </p>
 
 <!--
@@ -27,19 +27,9 @@ My full name is Rafsan Uddin Beg Rizan
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=shuhanmirza&&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff"/>
 -->
 
-<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=shuhanmirza&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
+<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=RizanPSTU&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
 
 <!--START_SECTION:waka-->
-
-```text
-Week: 28 June, 2021 - 04 July, 2021
-
-Python     11 hrs 1 min    ████████████████████░░░░░   80.21 %
-YAML       1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-PHP        52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-Markdown   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Docker     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-```
 
 <!--END_SECTION:waka-->
 
