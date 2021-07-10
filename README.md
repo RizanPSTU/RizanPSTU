@@ -11,7 +11,7 @@ My full name is Rafsan Uddin Beg Rizan
 - 🥅 2022 Goals: Prepering for a course to teach flutter and backend
 - ⚡ Fun fact: Lock Picking
 
-## ⚙️ Technologies & Tools
+<!-- ## ⚙️ Technologies & Tools -->
 
 ## &#x1f4c8; GitHub Stats
 
