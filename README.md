@@ -7,7 +7,7 @@ My full name is Rafsan Uddin Beg Rizan
 ## I'm a Husband, Father and Developer!!
 
 - 🌱 I’m currently learning everything about Docker and K8s
-- 🥅 2022 Goals: Prepering for a course to teach flutter and backend
+- 🥅 2022 Goals: Prepering for a course to teach Flutter and Backend
 - ⚡ Fun fact: I love Lock Pickingr :/ 
 
 <!-- ## ⚙️ Technologies & Tools -->
