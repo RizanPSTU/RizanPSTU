@@ -8,7 +8,7 @@ My full name is Rafsan Uddin Beg Rizan
 
 - 🌱 I’m currently learning everything about Docker and K8s
 - 🥅 2022 Goals: Prepering for a course to teach flutter and backend
-- ⚡ Fun fact: I am a Lock Picker :/ 
+- ⚡ Fun fact: I love Lock Pickingr :/ 
 
 <!-- ## ⚙️ Technologies & Tools -->
 
