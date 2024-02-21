@@ -11,7 +11,6 @@ My full name is Rafsan Uddin Beg Rizan
 
 ## &#x1f4c8; GitHub Stats
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=RizanPSTU&count_private=true" />
 
 <img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=RizanPSTU&count_private=true"/>
 
