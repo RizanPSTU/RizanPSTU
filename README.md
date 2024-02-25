@@ -2,8 +2,6 @@
 
 My full name is Rafsan Uddin Beg Rizan
 
-![Profile views](https://gpvc.arturio.dev/rafsan)
-
 ## I'm a Husband, Father and Developer!!
 
 
